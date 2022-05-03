@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jake Tapper, Ariane de Vogue, Jeff Zeleny and Betsy Klein, CNN",
+            "title": "First on CNN: Biden to nominate Ketanji Brown Jackson to be first Black woman to sit on Supreme Court - CNN",
+            "description": "President Joe Biden has selected Ketanji Brown Jackson as his nominee to the Supreme Court, setting in motion a historic confirmation process for the first Black woman to sit on the highest court in the nation.",
+            "url": "https://www.cnn.com/2022/02/25/politics/supreme-court-ketanji-brown-jackson/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220223111350-restricted-lead-image-ketanji-brown-jackson-super-tease.jpg",
+            "publishedAt": "2022-02-25T16:29:00Z",
+            "content": "(CNN)President Joe Biden has selected Ketanji Brown Jackson as his nominee to the Supreme Court, setting in motion a historic confirmation process for the first Black woman to sit on the highest cour… [+10221 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian forces close in on Kyiv - Reuters",
+            "description": "(Editor's note: Please note language some may find offensive in second cross-header and in paragraph 21)",
+            "url": "https://www.reuters.com/world/europe/ukraines-president-stays-put-russian-invaders-advance-2022-02-25/",
+            "urlToImage": "https://www.reuters.com/resizer/yh9IdGcin4d4dMLh2XvGjI_1IBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JZ6FCACXDJLFXDJUXI727FB6CM.jpg",
+            "publishedAt": "2022-02-25T16:27:00Z",
+            "content": "KYIV, Feb 25 (Reuters) - (Editor's note: Please note language some may find offensive in second cross-header and in paragraph 21)\r\nRussian missiles pounded Kyiv on Friday, families cowered in shelter… [+7225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Elden Ring Shatters Dark Souls Records On Twitch And Steam - Kotaku",
+            "description": "FromSoftware’s open world Souls-like is already Twitch's number one game.",
+            "url": "https://kotaku.com/elden-ring-twitch-steam-dark-souls-fromsoftware-records-1848593903",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d9f013c8ecb5bd862c2b8d4b79d7b50e.jpg",
+            "publishedAt": "2022-02-25T15:45:00Z",
+            "content": "FromSoftwares Elden Ringhas been out for less than a day, and its already taken over Twitch and Steam. The open world action-RPG is posting unprecedented numbers for a Souls-like.\r\nShortly after its … [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Gordon Ung",
+            "title": "I used Apple's AirTag to track my wife and kids. Here’s what I learned - PCWorld",
+            "description": "I tracked my family with an AirTag and while it's creepy, I don't think Apple needs to nerf the Bluetooth tracker.",
+            "url": "https://www.pcworld.com/article/608037/i-used-apples-airtag-to-track-my-wife-and-kids-heres-what-i-learned.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2022/02/AirTag_Tile-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2022-02-25T15:40:07Z",
+            "content": "Skip to contentType your search and hit enter\r\nAn Apple AirTag was used to stalk a Sports Illustrated model. Thieves are placing AirTags on cars to track them home, where they can later be stolen. If… [+9031 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Libby Cathey",
+            "title": "Biden to attend NATO summit from Situation Room as Putin invades Ukraine - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Politics/biden-attend-nato-summit-situation-room-putin-invades/story?id=83094046",
+            "urlToImage": "https://s.abcnews.com/images/International/biden-security-council-01-ht-iwb-220224_1645718191395_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-02-25T15:33:45Z",
+            "content": "President Joe Biden attended an emergency NATO summit Friday morning from the White House Situation Room to coordinate next steps with Western allies as Russian President Vladimir Putin wages a full-… [+3050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "International Olympic Committee urges sports bodies to cancel events in Russia, Belarus - ESPN",
+            "description": "The IOC is urging sports bodies to cancel or move all events they plan to hold in Russia and Belarus and stop using the countries' flags and national anthems.",
+            "url": "https://www.espn.com/olympics/story/_/id/33368931/international-olympic-committee-urges-sports-bodies-cancel-events-russia-belarus",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0724%2Fr106554_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-02-25T15:13:34Z",
+            "content": "GENEVA -- The International Olympic Committee urged sports bodies Friday to cancel or move all events they plan to hold in Russia and Belarus, and stop using the countries' flags and national anthems… [+3945 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephanie Nolasco",
+            "title": "Peta Murgatroyd pleads for Maksim Chmerkovskiy’s return after Russian invasion of Ukraine: ‘Please pray’ - Fox News",
+            "description": "Ukranian-born star Maks Chmerkovskiy, a choreographer known for showcasing his talents on \"Dancing with the Stars,\" revealed on Thursday that he's currently in his native country of Ukraine and terrified as he plans to head to a bomb shelter.",
+            "url": "https://www.foxnews.com/entertainment/peta-murgatroyd-maksim-chmerkovskiy-dwts-return-russian-invasion-ukraine",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/Getty_PetaMurgatroyd_MaksimChmerkovskiy.jpg",
+            "publishedAt": "2022-02-25T14:58:50Z",
+            "content": "Peta Murgatroyd is pleading for prayers as her husband Maksim Chmerkovskiy, who is in his native country of Ukraine, shares updates of the conflict unfolding in Kyiv.\r\n\"Please pray for my husband Mak… [+5862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Tim Arango, Nicholas Bogel-Burroughs, Jay Senter",
+            "title": "Three Former Officers Convicted of Violating George Floyd’s Rights - The New York Times",
+            "description": "All of them were charged with willfully violating Mr. Floyd’s constitutional rights by not providing medical care. Two were accused of not intervening to stop a fellow officer.",
+            "url": "https://www.nytimes.com/2022/02/24/us/guilty-verdict-george-floyds-rights.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/24/us/24floyd-verdict02/24floyd-verdict02-facebookJumbo.jpg",
+            "publishedAt": "2022-02-25T14:26:00Z",
+            "content": "One of the most important witnesses was Inspector Katie Blackwell, a Minneapolis police official who formerly was in charge of training. She testified for three days about the training that recruits … [+2929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Life"
+            },
+            "author": "James Crowley",
+            "title": "​Ashton Kutcher Says He ‘Stands With’ Wife Mila Kunis’ Native Ukraine Amidst Russian Attacks - HollywoodLife",
+            "description": "The 'That '70s Show' star showed support to his wife's home country, where she lived until she was seven-years-old.",
+            "url": "https://hollywoodlife.com/2022/02/25/ashton-kutcher-mila-kunis-ukraine-message-russia-attacks/",
+            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/02/ashton-kutcher-and-mila-kunis-side-with-ukraine-ss-ftr.jpg",
+            "publishedAt": "2022-02-25T14:19:56Z",
+            "content": "The ‘That ’70s Show’ star showed support to his wife’s home country, where she lived until she was seven-years-old.\r\nAshton Kutcher, 44, was one of many stars who showed their support for Ukraine in … [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Kisha Forde",
+            "title": "Cause of Death Revealed For Alicia Witt's Parents - E! NEWS",
+            "description": "Following the tragic death of actress Alicia Witt’s parents, a cause of death has been disclosed for the couple, who were found in their Massachusetts home in December.",
+            "url": "https://www.eonline.com/news/1321026/cause-of-death-revealed-for-alicia-witts-parents",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022025/rs_1200x1200-220125132055-1200-alicia-witt-facebook-parents.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-02-25T13:27:00Z",
+            "content": "Two months after the death of Alicia Witt's parents, new details have emerged about their untimely passing.\r\nReports have confirmed that Robert Witt and Diane Witt died from the cold in their Massach… [+996 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "Europe's Russian gas dependency: Exports via Ukraine jumped Thursday - Business Insider",
+            "description": "About 41% of the European Union's gas imports are from Russia – more than twice as much as Norway, the next-largest supplier.",
+            "url": "https://www.businessinsider.com/russian-gas-exports-europe-eu-ukraine-putin-war-prices-2022-2",
+            "urlToImage": "https://i.insider.com/61dc5f5f1025b20018bb006b?width=1200&format=jpeg",
+            "publishedAt": "2022-02-25T13:20:32Z",
+            "content": "Natural gas exports flowing from Russia to Europe through Ukraine ramped up on Thursday, jumping by nearly 38% from a day earlier, according to data reported by Bloomberg.\r\nFigures from Ukraine's gri… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "CDC ‘significantly’ changing COVID mask guidelines, reports say - AL.com",
+            "description": "The change involves a more holistic way of looking at the pandemic, sources close to the CDC said.",
+            "url": "https://www.al.com/news/2022/02/cdc-significantly-changing-covid-mask-guidelines-reports-say.html",
+            "urlToImage": "https://www.al.com/resizer/IYta5OHWH_jCEBA5c_FO1Wl-sHA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FDOD7IFUZFH3HPGS72CDURWYEQ.jpg",
+            "publishedAt": "2022-02-25T13:19:00Z",
+            "content": "The Centers for Disease Control is set to significantly ease mask-wearing guidelines put in place to prevent the spread of COVID-19, according to published reports. The change means most Americans wi… [+788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Ukraine nuclear agency reports rise in Chornobyl radiation levels after Russian troops seize control - CNBC",
+            "description": "An explosion and fire at the Chornobyl power plant on April 26, 1986, led to the world's worst nuclear disaster.",
+            "url": "https://www.cnbc.com/2022/02/25/russia-invasion-ukraine-nuclear-agency-sees-rise-in-chornobyl-radiation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107020766-1645794841965-gettyimages-1232472140-38804454.jpeg?v=1645794895",
+            "publishedAt": "2022-02-25T13:15:53Z",
+            "content": "Ukraine's nuclear agency on Friday warned radiation at the defunct Chornobyl nuclear power plant had exceeded control levels after Russian troops seized control of the area.\r\nExperts at the state nuc… [+3158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lauren Thomas",
+            "title": "Foot Locker shares sink after retailer says 2022 sales will fall as it expects to sell fewer Nike products - CNBC",
+            "description": "Foot Locker shares are tumbling after the retailer forecast revenue to drop in 2022.",
+            "url": "https://www.cnbc.com/2022/02/25/foot-locker-fl-reports-q4-2021-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106926184-1628787101359-gettyimages-1332017926-dsc00873_2021080231459932.jpeg?v=1628787168",
+            "publishedAt": "2022-02-25T13:07:32Z",
+            "content": "Foot Locker shares tumbled Friday after the retailer said it expects revenue to drop in 2022 as it anticipates it will no longer be able to sell as many products from its top vendor, Nike.\r\nBeginning… [+2329 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Arian Campo-Flores",
+            "title": "Florida Moves to Restrict Teaching About Sexual Orientation - The Wall Street Journal",
+            "description": "Bill sponsored by Republican lawmakers aims to assert more parental control over what is taught; opponents call it the ‘Don’t Say Gay’ bill",
+            "url": "https://www.wsj.com/articles/florida-moves-to-restrict-teaching-about-sexual-orientation-11645794000",
+            "urlToImage": "https://images.wsj.net/im-492287/social",
+            "publishedAt": "2022-02-25T13:00:00Z",
+            "content": "MIAMILawmakers in the Republican-led Florida House passed a measure Thursday that would restrict teaching about sexual orientation and gender identity in public schools, opening a new front in a broa… [+428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX launching 50 Starlink satellites, landing rocket today: Watch it live - Space.com",
+            "description": "Liftoff is scheduled for 12:12 p.m. EST (1712 GMT).",
+            "url": "https://www.space.com/spacex-50-starlink-satellites-launch-february-2022",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kfg2vYY5VC7FVnqbyiqEj3-1200-80.jpg",
+            "publishedAt": "2022-02-25T12:16:44Z",
+            "content": "SpaceX\r\n will launch 50 satellites and land the returning booster today (Feb. 25), and you can watch the action live.\r\nA two-stage Falcon 9\r\n rocket topped with 50 Starlink\r\n internet spacecraft is s… [+2601 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Does China Support Russia? Xi Asks Putin to Negotiate With Ukraine in Phone Call - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=01743975-965c-11ec-a70b-4c486b526769&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMi0yNS9jaGluYS1zLXhpLXVyZ2VzLXB1dGluLXRvLW5lZ290aWF0ZS13aXRoLXVrcmFpbmUtaW4tcGhvbmUtY2FsbA==",
+            "urlToImage": null,
+            "publishedAt": "2022-02-25T11:47:41Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Andrew Drake",
+            "title": "'I don't want to die': Ukrainians fear as invasion closes in - Associated Press",
+            "description": "KYIV, Ukraine (AP) — Yurii Zhyhanov woke before dawn to his mother’s screaming and found himself covered in dust. On the second day of Russia's invasion , shelling on the outskirts of Ukraine’s capital, Kyiv, struck their residential building.",
+            "url": "https://apnews.com/article/russia-ukraine-europe-lifestyle-kyiv-ed0e4c3b29d4b287afaa4e43aead4f0e",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ad088ad64394926985424aeda04d7ce/3000.jpeg",
+            "publishedAt": "2022-02-25T11:36:18Z",
+            "content": "KYIV, Ukraine (AP) Yurii Zhyhanov woke before dawn to his mothers screaming and found himself covered in dust. On the second day of Russias invasion, shelling on the outskirts of Ukraines capital, Ky… [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Report: Kyler Murray, Cardinals on same page and working to move forward - NBC Sports",
+            "description": "Cardinals quarterback Kyler Murray decision to scrub his social media of any mention of the team earlier this month was followed by a report that some around the team feel he’s immature and self-centered, but it looks like things have cooled off in the desert…",
+            "url": "https://profootballtalk.nbcsports.com/2022/02/25/report-kyler-murray-cardinals-on-same-page-and-working-to-move-forward/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/02/GettyImages-1237801487-e1645788712610.jpg",
+            "publishedAt": "2022-02-25T11:32:00Z",
+            "content": "Cardinals quarterback Kyler Murray decision to scrub his social media of any mention of the team earlier this month was followed by a report that some around the team feel hes immature and self-cente… [+984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Chris Buckley, Tariq Panja, Andrew Das",
+            "title": "Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses - The New York Times",
+            "description": "In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China.",
+            "url": "https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/25/world/25china-olympics-protest-01/25china-olympics-protest-01-facebookJumbo.jpg",
+            "publishedAt": "2022-02-25T11:00:12Z",
+            "content": "I felt I was obligated to do something since I had the opportunity that very few people have, Mr. van der Poel said.\r\nIn Beijing, he broke his own world record in the 10,000-meter race, beating the r… [+896 chars]"
+        }
+    ]
+}
